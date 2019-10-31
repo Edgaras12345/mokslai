@@ -1,3 +1,5 @@
-name = "Edgaras"
+print("Labas rytas, " )
+sure='kirvis'
 
-print("Labas, " + name)
+jega=sure + ' ! '*10+' jo '
+print("Labas rytas, " + jega)
